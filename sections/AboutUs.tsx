@@ -33,7 +33,9 @@ const AboutUs = () => {
           in the industry.
         </p>
         <p className="mt-6 lg:max-w-lg info-text">
-          Our dedication to detail and excellence ensures your satisfaction.
+          Our dedication to providing the best solution to our clients has
+          driven us to create a product that is not only ergonomic but also
+          cost-effective.
         </p>
         <div className="mt-11">
           <CustomButton
